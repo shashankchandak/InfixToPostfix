@@ -1,4 +1,4 @@
-/*This is final code
+/*
 This code:
 1.checks whether expression is well parenthesized or not.
 2.converts infix expression to postfix
