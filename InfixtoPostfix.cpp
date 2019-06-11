@@ -1,10 +1,3 @@
-/*
-This code:
-1.checks whether expression is well parenthesized or not.
-2.converts infix expression to postfix
-3.evaluates the postfix expression to get the result(handles any number of digits)
-
-so in infix expression don't input variables,input numbers */
 
 #include<iostream>
 #include<stack>
